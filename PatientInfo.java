@@ -6,7 +6,7 @@ public class PatientInformation {
     public static void main(String[] args) {
         // JDBC URL, username, and password of Oracle database
         String url = "jdbc:oracle:thin:@localhost:1521:XE";
-        String user = "your_username";
+        String user = "user123";
         String password = "your_password";
 
         try {
